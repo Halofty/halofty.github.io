@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "김상혁"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "용인"
+  employer         : "경희대학교"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rlatkdgur04@khu.ac.kr" 
 
   # Academic websites
   academia         : # URL
